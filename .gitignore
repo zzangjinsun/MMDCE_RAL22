@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+experiments
+.idea/
+experiments/
+backup/
+etc/
+*.m~
